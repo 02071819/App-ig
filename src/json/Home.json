@@ -1,0 +1,84 @@
+{
+    "header": [
+        {
+            "CameraUrl": "https://github.com/02071819/App-ig/blob/master/assets/Icons/Camera.png?raw=true",
+            "InstagramUrl": "https://github.com/02071819/App-ig/blob/master/assets/Icons/Instagram.png?raw=true",
+            "MessageUrl": "https://github.com/02071819/App-ig/blob/master/assets/Icons/Message.png?raw=true"
+        }
+    ],
+    "Icon": [
+        {
+            "More": "https://github.com/02071819/App-ig/blob/master/assets/Icons/More.png?raw=true",
+            "Heart": "https://github.com/02071819/App-ig/blob/master/assets/Icons/Heart.png?raw=true",
+            "Answer": "https://github.com/02071819/App-ig/blob/master/assets/Icons/Answer.png?raw=true",
+            "Message": "https://github.com/02071819/App-ig/blob/master/assets/Icons/Message.png?raw=true",
+            "Tag": "https://github.com/02071819/App-ig/blob/master/assets/Icons/Tag.png?raw=true",
+            "Home": "https://github.com/02071819/App-ig/blob/master/assets/Icons/Home.jpeg?raw=true",
+            "Search": "https://github.com/02071819/App-ig/blob/master/assets/Icons/Search.png?raw=true",
+            "Add": "https://github.com/02071819/App-ig/blob/master/assets/Icons/Add.png?raw=true",
+            "Person": "https://github.com/02071819/App-ig/blob/master/assets/Icons/Person.png?raw=true",
+            "Angle": "https://github.com/02071819/App-ig/blob/master/assets/Icons/Angle.png?raw=true",
+            "Video": "https://github.com/02071819/App-ig/blob/master/assets/Icons/Video.png?raw=true",
+            "Edit": "https://github.com/02071819/App-ig/blob/master/assets/Icons/Edit.png?raw=true",
+            "Camera": "https://github.com/02071819/App-ig/blob/master/assets/Icons/Camera.png?raw=true",
+            "SearchGray": "https://github.com/02071819/App-ig/blob/master/assets/Icons/SearchGray.png?raw=true"
+        }
+    ],
+    "PostDetail": [
+        {
+            "PersonUrl": "https://github.com/02071819/App-ig/blob/master/assets/HomePerson/000.jpg?raw=true",
+            "PersonId": "gordongram",
+            "PhotoUrl": "https://github.com/02071819/App-ig/blob/master/assets/Photo/0000.jpg?raw=true",
+            "HeartNumber": "228,895 likes",
+            "Content": " Flipping delicious!!"
+        },
+        {
+            "PersonUrl": "https://github.com/02071819/App-ig/blob/master/assets/HomePerson/3333.jpg?raw=true",
+            "PersonId": "alanwalkermusic",
+            "PhotoUrl": "https://github.com/02071819/App-ig/blob/master/assets/Photo/33333.jpg?raw=true",
+            "HeartNumber": "195,355 likes",
+            "Content": " A true friend walks in when everybody else walks out"
+        },
+        {
+            "PersonUrl": "https://github.com/02071819/App-ig/blob/master/assets/HomePerson/1111.jpg?raw=true",
+            "PersonId": "natgeotravel",
+            "PhotoUrl": "https://github.com/02071819/App-ig/blob/master/assets/Photo/11111.jpg?raw=true",
+            "HeartNumber": "256,286 likes",
+            "Content": " Stars glow above one of Iceland’s 10,000 waterfalls on a crystal clear winter night.This single exposure of 20 minutes was enough to show our constantly rotating planet."
+        },
+        {
+            "PersonUrl": "https://github.com/02071819/App-ig/blob/master/assets/HomePerson/2222.jpg?raw=true",
+            "PersonId": "jabbawockeez",
+            "PhotoUrl": "https://github.com/02071819/App-ig/blob/master/assets/Photo/22222.jpg?raw=true",
+            "HeartNumber": "29,602 likes",
+            "Content": " ALL OF THE LIGHTS TIMELESS!"
+        }
+    ],
+    "MessageDetail": [
+        {
+            "PersonUrl": "https://github.com/02071819/App-ig/blob/master/assets/MessagePerson/Jotaro.jpg?raw=true",
+            "PersonId": "Jotaro",
+            "Content": "Active 5h ago"
+        },
+        {
+            "PersonUrl": "https://github.com/02071819/App-ig/blob/master/assets/MessagePerson/Star%20Platinum.png?raw=true",
+            "PersonId": "Star Platinum",
+            "Content": "Oraoraoraoraoraora  ‧  1d"
+        },
+        {
+            "PersonUrl": "https://github.com/02071819/App-ig/blob/master/assets/MessagePerson/Dio.png?raw=true",
+            "PersonId": "DIO",
+            "Content": "ZA WARUDO ‧ 2d"
+        },
+        {
+            "PersonUrl": "https://github.com/02071819/App-ig/blob/master/assets/MessagePerson/The%20World.jpg?raw=true",
+            "PersonId": "The World",
+            "Content": "Mudamudamudamuda ‧ 2d"
+        },
+        {
+            "PersonUrl": "https://github.com/02071819/App-ig/blob/master/assets/MessagePerson/Joseph.jpg?raw=true",
+            "PersonId": "Joseph Joestar",
+            "Content": "Nice ‧ 5w"
+        }
+    ]
+}
